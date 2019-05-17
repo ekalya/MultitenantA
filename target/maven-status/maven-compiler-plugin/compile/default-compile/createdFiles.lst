@@ -1,0 +1,10 @@
+de/bytefish/multitenancy/web/configuration/JerseyConfig.class
+de/bytefish/multitenancy/routing/TenantAwareRoutingSource.class
+de/bytefish/multitenancy/SampleJerseyApplication.class
+de/bytefish/multitenancy/web/filters/TenantNameFilter.class
+de/bytefish/multitenancy/model/Customer.class
+de/bytefish/multitenancy/web/model/CustomerDto.class
+de/bytefish/multitenancy/web/resources/CustomerResource.class
+de/bytefish/multitenancy/repositories/ICustomerRepository.class
+de/bytefish/multitenancy/core/ThreadLocalStorage.class
+de/bytefish/multitenancy/web/converter/Converters.class
